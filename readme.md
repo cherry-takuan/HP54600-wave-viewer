@@ -17,3 +17,7 @@ python3.8環境で動作します。
 - plotter
 - Factor:ON
 - pen:2
+
+# 取得例
+
+![54600シリーズから取得したハードコピー](./svg_test.svg)
