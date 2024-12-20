@@ -49,6 +49,7 @@ def HPGL2SVG(source):
             for data in param:
                 if ord(data) == 0x03:
                     svg_data += '</div></foreignObject>'
+                    LB = False
                     break
                 else:
                     svg_data += data
@@ -120,6 +121,7 @@ def HPGL2SVG(source):
             for data in param:
                 if ord(data) == 0x03:
                     svg_data += '</div></foreignObject>'
+                    LB = False
                     break
                 else:
                     svg_data += data
