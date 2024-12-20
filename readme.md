@@ -21,3 +21,5 @@ python3.8環境で動作します。
 # 取得例
 
 ![54600シリーズから取得したハードコピー](./svg_test.svg)
+
+[画像リンク](https://raw.githubusercontent.com/cherry-takuan/HP54600-wave-viewer/master/svg_test.svg)
