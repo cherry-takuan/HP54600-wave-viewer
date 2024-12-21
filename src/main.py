@@ -160,5 +160,5 @@ if __name__ == "__main__":
             source += data.decode('UTF-8')
         #print(data.strip().decode('UTF-8'),file=sys.stderr)
 
-        print("Done",file=sys.stderr)
-        print(HPGL2SVG(source))
+    print("Done",file=sys.stderr)
+    print(HPGL2SVG(source))
